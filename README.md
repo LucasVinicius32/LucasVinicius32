@@ -12,7 +12,7 @@
     Me = {
             Skills: "evolving the Back-end and front-end",
         Main_Langs: "Python,HTML,CSS", 
-         Web_Langs: "Javascript, PHP , SQL",
+         Web_Langs: "Javascript, PHP",
                 SO: "Microsoft ",
     };
 
