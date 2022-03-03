@@ -2,7 +2,7 @@
 <div align='center'>
     <a href="https://github.com/LucasVinicius32">
     <img src='https://github.com/dotOttoni/ArthurHydr/blob/main/hacker-25897.png' height='128px' weidth'128px' target="_blank"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=510&height=65&lines=Hello+Friend!;My+name+is+Lucas%2C+and+I'm+a+only+young+dreamer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=510&height=65&lines=Hello+Guys!;My+name+is+Lucas%2C+and+I'm+a+only+young+dreamer">
 </div>
   
 </div>
