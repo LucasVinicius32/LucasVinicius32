@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=blueviolet&style=flat">
+<div align='center'>
+    <a href="https://github.com/LucasVinicius32">
+    <img src='https://github.com/dotOttoni/ArthurHydr/blob/main/hacker-25897.png' height='128px' weidth'128px' target="_blank"><br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=510&height=65&lines=Hello+Friend!;My+name+is+Lucas%2C+and+I'm+a+only+young+dreamer">
+</div>
+  
+</div>
 
-<!--
-**LucasVinicius32/LucasVinicius32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ♠️ About Me ♦️
+   ```js
+    Me = {
+            Skills: "evolving the Back-end and front-end",
+        Main_Langs: "Python,HTML,CSS", 
+         Web_Langs: "Javascript, PHP , SQL",
+                SO: "Microsoft ",
+    };
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+</div>                
+<div align='center'>
+<a href="https://twitter.com/LucasVi91156075" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/opa.lucasz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-vinícius-da-silva-soares-4789b6213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
