@@ -10,7 +10,7 @@
 ### ♠️ About Me ♦️
    ```js
     Me = {
-            Skills: "evolving the Back-end and front-end",
+            Skills: "Evolving the Back-end and front-end",
         Main_Langs: "Python,HTML,CSS", 
          Web_Langs: "Javascript",
                 SO: "Microsoft ",
