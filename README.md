@@ -10,7 +10,7 @@
 ### ♠️ About Me ♦️
    ```js
     Me = {
-            Skills: "Be adaptable",
+            Skills: "Deixar a conta do github aberta no lab!",
         Main_Langs: "Python,Node.js,TypeScript,SQL", 
          Web_Langs: "Javascript",
                 SO: "Microsoft ",
